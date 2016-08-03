@@ -1,8 +1,16 @@
-Service,Custodian,Who deliver service
-Become a childminder,Not known,DCLG Home-Office HMRC Ofsted
-Buy a vehicle,Not known, DCLG DVLA insurance-industry
-Drive with a medical condition,Lee Croucher,DVLA DVSA DoH
-Help paying for childcare,Not known,DCLV HMRC 
-Learn to drive,Not known,DoH driving-structors-industry DVLA DVSA 
-Register to vote,Francesca Garbarini,Cabinet-Office DCLG
-Start a buinses,Not known,Companies-House BEIS HMRC Insolvency-Service
+Service,Custodian,Who delivers this service,Service area
+Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-government,childcare-and-parenting
+Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcare-and-parenting
+Buy a vehicle ,Not known,local-government DVLA insurance-industry,driving
+Drive with a medical condition,Lee Croucher,DVLA DVSA DoH,driving
+Foster a child,Not known,DfE DWP Home-office HMRC local-government,childcare-and-parenting
+Have a baby,Not known,Not known,childcare-and-parenting
+Help paying for childcare,Not known,local-government HMRC ,childcare-and-parenting
+Help with court fees,Adrian Woodcock,MoJ Courts-Tribunals-Service,crime-justice-and-the-law
+I want to fish,Jeremy Gallop,Environment Agency,environment-and-countryside
+Inherit property,Not known,Not known,births-deaths-marriages-and-care
+Learn to drive,Not known,DVLA DVSA ,driving
+Let a property,Not known,Not known,housing
+Register to vote,Francesca Garbarini,Cabinet-Office DCLG,citizenship
+Rent a house or flat,Not known,local-government ,housing
+Start a buinses,Not known,Companies-House BEIS HMRC Insolvency-Service,business
