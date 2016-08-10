@@ -3,55 +3,66 @@ Adapt a vehicle,Not known,DVLA DVSA,driving
 Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-government,childcare-and-parenting
 Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcare-and-parenting
 Become a scrap dealer,Not known,local-government,driving
-Become an apprentice,Not known,DWP HMRC National-Apprenticeship-Service ,work
 Bring freight in to and out of the UK,Not known,Home-Office,import-and-export
 Build a kit car,Not known,DVLA DVSA,driving
 Buy a business with vehicles,Not known,DVLA DVSA HMRC,driving
-Buy a house,Not known,Land-Registry local-government HMRC estate-agent-industry,house-local-and-community
+Buy a house,Not known,estate-agent-industry Land-Registry local-government HMRC,house-local-and-community
 Buy a personalised registration,Not known,DVLA,driving
-Buy a vehicle ,Not known,local-government DVLA insurance-industry,driving
+Buy a vehicle ,Not known,DVLA insurance-industry local-government,driving
 Care for someone,Not known,DWP DoH local-government Office-Public-Guardian,births-deaths-marriages-and-care
 Change gender,Not known,Courts-Tribunals-Service DVLA Passport-Office,births-deaths-marriages-and-care
 Check penalty points,Not known,DVLA,driving
-Close a charity,Not known,Charity-Commission,citizenship
+Claim asylum in the UK,Not known,Home-Office local-government,visas-and-immigration
+Close a charity,Not known,Charity-Commission HMRC,citizenship
 Come to the UK ,Not known,Home-Office local-government,visas-and-immigration
 Declare bankruptcy,Not known,Courts-Tribunals-Service Insolvency-Service,crime-justice-and-the-law
 Dismiss an employee,Not known,DWP HMRC,business
 Drive a bus / mini-bus,Not known,DVLA DVSA,driving
 Drive a heavy vehicle,Not known,DVLA DVSA DoH,driving
-Drive a moped or motobike,Not known,DVLA approved-training-body,driving
-Drive a taxi,Not known,DVLA local-government,driving
+Drive a moped or motobike,Not known,approved-training-body DVLA,driving
+Drive a taxi,Not known,DVLA insurance-industry local-government,driving
 Drive abroad,Not known,DVLA,driving
 Drive in the UK,Not known,DVLA DVSA,driving
 Drive tractor or specialist vehicle,Not known,DVLA,driving
-Drive with a medical condition,Lee Croucher,DVLA DVSA DoH,driving
+Drive with a medical condition,Lee Croucher,DoH DVLA DVSA,driving
 Employ a driver,Not known,DVLA,driving
 Employ someone,Not known,Disclosure-and-Barring-Service DVLA Home-Office HMRC,business
 Export a vehicle,Not known,DVLA HMRC,driving
+Find a school,Not known,DfF local-government,education
+Find childcare,Not known,DfE Ofsted local-government,childcare-and-parenting
 Foster a child,Not known,DfE DWP Home-office HMRC local-government,childcare-and-parenting
-Get a divorce,Not known,MoJ Courts-Tribunals-Service,births-deaths-marriages-and-care
+Get a divorce,Not known,Courts-Tribunals-Service MoJ,births-deaths-marriages-and-care
+Get an apprenticeship ,Not known,DWP HMRC National-Apprenticeship-Service ,work
 Get disqualified from driving,Not known,DVLA DVSA Courts-Tribunals-Service,driving
 Get housing,Not known,DWP local-government,housing
-Get married,Not known,local-government HMRC ,births-deaths-marriages-and-care
+Get married,Not known,HMRC local-government ,births-deaths-marriages-and-care
 Get parking permit,Not known,local-government,driving
-Go fishing,Jeremy Gallop,Environment Agency,environment-and-countryside
+Get planning permission,Not known,DCLG English-Heritage Environment-Agency local-government Natural-England,housing
+Get your pension,Not known,DWP HMRC,money
+Go fishing,Jeremy Gallop,Environment Agency Marine-Management-Organisation,environment-and-countryside
 Go to university,Not known,DfE Ucas Student-Loans-Company universities,education
 Have a baby,Not known,DoH DWP local-government HMRC,childcare-and-parenting
 Help paying for childcare,Not known,local-government HMRC ,childcare-and-parenting
 Help with court fees,Adrian Woodcock,MoJ Courts-Tribunals-Service,crime-justice-and-the-law
 Import a vehicle,Not known,DVLA HMRC,driving
-Inherit property,Not known,Not known,births-deaths-marriages-and-care
+Inherit property,Not known,Courts-Tribunals-Service HMRC local-government,births-deaths-marriages-and-care
 Learn to drive,Not known,DVLA DVSA ,driving
 Leave the UK,Not known,FCO Home-Office,visas-and-immigration
-Let a property,Not known,Not known,housing
+Let a property,Not known,local-government ,housing
 Live independently,Not known,DWP DoH local-government,work
 Manufacture vehicles,Not known,DVLA HMRC Vehicle-Cerification-Agency,driving
+Move abroad,Not known,FCO HMRC Home-Office,visas-and-immigration
+Move house,Not known,DVLA HMRC local-government ,housing 
+Move livestock ,Not known,DEFRA,environment-and-countryside
 Move school,Not known,DfE local-government,education
+Move waste,Not known,Environment-Agency local government,environment-and-countryside
 Operate large vehicles,Not known,DVLA DVSA HMRC,driving
+Own a boat,Not known,Canal-River-Trust Environment-Agency Maritime-and-Coastguard-Agency,transport
 Own a firearm,Not known,Home-Office Police,crime-justice-and-the-law
 Pay a fine,Not known,DVLA local-government,driving
 Pay to use a UK road,Not known,DVLA,driving
 Pay vehicle tax,Not known,DVLA,driving
+Plan for retire,Not known,DWP HMRC,money
 Prove idenity,Janet Hughes,DVLA GDS Passport-Office,citizenship
 Register to vote,Francesca Garbarini,Cabinet-Office DCLG,citizenship
 Renew driving licence,Not known,DVLA,driving
@@ -60,12 +71,12 @@ Rent a house or flat,Not known,local-government ,housing
 Rent a vehicle,Not known,DVLA vehicle-rental-industry,driving
 Report a crime,Not known,Home-Office Police,crime-justice-and-the-law
 Scrap a vehicle,Not known,DVLA scrap-metal-industry,driving
-Seek asylum in the UK,Not known,Home-Office local-government,visas-and-immigration
 Sell a house,Not known,Land-Registry local-government HMRC estate-agent-industry,house-local-and-community
 Sell a personalised registration,Not known,DVLA,driving
 Sell a vehicle,Not known,DVLA mechanic-industry,driving
-Start a buinses,Not known,Companies-House BEIS HMRC Insolvency-Service,business
-Start a charity,Not known,Charity-Commission,citizenship
+Shut down a company,Not known,Companies-House HMRC ,business
+Start a business,Not known,BEIS Companies-House HMRC Insolvency-Service,business
+Start a charity,Not known,Charity-Commission HMRC,citizenship
 Start a job,Not known,DWP HMRC,work
 Start school,Not known,DfE local-government,education
 Stay in contact with someone in prison,Not known,Prison-Service,crime-justice-and-the-law
@@ -74,7 +85,7 @@ Stay in work,Not known,DWP DoH HMRC,work
 Stop business with vehicles,Not known,DVLA DVSA HMRC,driving
 Stop driving,Not known,DVLA DoH,driving
 Stop working,Not known,DWP DoH HMRC,work
-Take a pet abroad,Not known,Border-Force Animal-and-Plant-Health-Agency HMRC vet-industry,visas-and-immigration
+Take a pet abroad,Not known,Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry,visas-and-immigration
 Take on an apprentice,Not known,DWP HMRC National-Apprenticeship-Service National-Career-Service,business
 Teach people to drive,Not known,DVSA driving-instructors-industry,driving
 Test vehicle,Not known,DVSA,driving
@@ -86,3 +97,5 @@ Transport Passengers,Not known,DVLA DVSA,driving
 Travel to other countries,Not known,Border-Force FCO Passport-Office ,visas-and-immigration
 Update driving licence,Not known,DVLA,driving
 Use accessible parking,Not known,local-government,driving
+What to do when someone has died,Not known,DoH funeralcare-industry local-government,births-deaths-marriages-and-care
+Work abroad,Not known,FCO HMRC Home-Office,visas-and-immigration
