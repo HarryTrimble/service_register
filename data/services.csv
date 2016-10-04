@@ -4,7 +4,7 @@ Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-gover
 Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcare-and-parenting
 Become a scrap dealer,Not known,local-government,driving
 Bring freight in to and out of the UK,Not known,Home-Office,import-and-export
-Build a kit car,Not known,DVLA DVSA,driving
+Build a car,Not known,DVLA DVSA,driving
 Buy a business with vehicles,Not known,DVLA DVSA HMRC,driving
 Buy a house,Not known,estate-agent-industry Land-Registry local-government HMRC,house-local-and-community
 Buy a personalised registration,Not known,DVLA,driving
@@ -39,7 +39,7 @@ Get married,Not known,HMRC local-government ,births-deaths-marriages-and-care
 Get parking permit,Not known,local-government,driving
 Get planning permission,Not known,DCLG English-Heritage Environment-Agency local-government Natural-England,housing
 Get your pension,Not known,DWP HMRC,money
-Go fishing,Jeremy Gallop,Environment Agency Marine-Management-Organisation,environment-and-countryside
+Go fishing,Jeremy Gallop,Environment-Agency Marine-Management-Organisation,environment-and-countryside
 Go to university,Not known,DfE Ucas Student-Loans-Company universities,education
 Have a baby,Not known,DoH DWP local-government HMRC,childcare-and-parenting
 Help paying for childcare,Not known,local-government HMRC ,childcare-and-parenting
@@ -56,6 +56,7 @@ Move house,Not known,DVLA HMRC local-government ,housing
 Move livestock ,Not known,DEFRA,environment-and-countryside
 Move school,Not known,DfE local-government,education
 Move waste,Not known,Environment-Agency local government,environment-and-countryside
+Move wildlife,Not known,Natural-England,environment-and-countryside
 Operate large vehicles,Not known,DVLA DVSA HMRC,driving
 Own a boat,Not known,Canal-River-Trust Environment-Agency Maritime-and-Coastguard-Agency,transport
 Own a firearm,Not known,Home-Office Police,crime-justice-and-the-law
