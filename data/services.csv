@@ -17,6 +17,7 @@ Close a charity,Not known,Charity-Commission HMRC,citizenship
 Come to the UK ,Not known,Home-Office local-government,visas-and-immigration
 Declare bankruptcy,Not known,Courts-Tribunals-Service Insolvency-Service,crime-justice-and-the-law
 Dismiss an employee,Not known,DWP HMRC,business
+Dredge a river,Not known,Environment-Agency ,environment-and-countryside
 Drive a bus / mini-bus,Not known,DVLA DVSA,driving
 Drive a heavy vehicle,Not known,DVLA DVSA DoH,driving
 Drive a moped or motobike,Not known,approved-training-body DVLA,driving
@@ -40,12 +41,14 @@ Get parking permit,Not known,local-government,driving
 Get planning permission,Not known,DCLG English-Heritage Environment-Agency local-government Natural-England,housing
 Get your pension,Not known,DWP HMRC,money
 Go fishing,Jeremy Gallop,Environment-Agency Marine-Management-Organisation,environment-and-countryside
+Go to prison,Not known,Courts-Tribunals-Service Home-Office Police Prison-Service,crime-justice-and-the-law
 Go to university,Not known,DfE Ucas Student-Loans-Company universities,education
 Have a baby,Not known,DoH DWP local-government HMRC,childcare-and-parenting
 Help paying for childcare,Not known,local-government HMRC ,childcare-and-parenting
 Help with court fees,Adrian Woodcock,MoJ Courts-Tribunals-Service,crime-justice-and-the-law
 Import a vehicle,Not known,DVLA HMRC,driving
 Inherit property,Not known,Courts-Tribunals-Service HMRC local-government,births-deaths-marriages-and-care
+Invest in a company,Not known,BEIS Companies-House HMRC,business
 Learn to drive,Not known,DVLA DVSA ,driving
 Leave the UK,Not known,FCO Home-Office,visas-and-immigration
 Let a property,Not known,local-government ,housing
@@ -71,6 +74,7 @@ Renew vehicle insurance,Not known,insurance-industry,driving
 Rent a house or flat,Not known,local-government ,housing
 Rent a vehicle,Not known,DVLA vehicle-rental-industry,driving
 Report a crime,Not known,Home-Office Police,crime-justice-and-the-law
+Run a farm,Not known,DEFRA DVLA,environment-and-countryside
 Scrap a vehicle,Not known,DVLA scrap-metal-industry,driving
 Sell a house,Not known,Land-Registry local-government HMRC estate-agent-industry,house-local-and-community
 Sell a personalised registration,Not known,DVLA,driving
@@ -78,6 +82,7 @@ Sell a vehicle,Not known,DVLA mechanic-industry,driving
 Shut down a company,Not known,Companies-House HMRC ,business
 Start a business,Not known,BEIS Companies-House HMRC Insolvency-Service,business
 Start a charity,Not known,Charity-Commission HMRC,citizenship
+Start a farm ,Not known,DEFRA DVLA,environment-and-countryside
 Start a job,Not known,DWP HMRC,work
 Start school,Not known,DfE local-government,education
 Stay in contact with someone in prison,Not known,Prison-Service,crime-justice-and-the-law
@@ -98,5 +103,6 @@ Transport Passengers,Not known,DVLA DVSA,driving
 Travel to other countries,Not known,Border-Force FCO Passport-Office ,visas-and-immigration
 Update driving licence,Not known,DVLA,driving
 Use accessible parking,Not known,local-government,driving
+Visit the UK,Not known,Border-Force DCMS FCO Passport-Office,visas-and-immigration
 What to do when someone has died,Not known,DoH funeralcare-industry local-government,births-deaths-marriages-and-care
 Work abroad,Not known,FCO HMRC Home-Office,visas-and-immigration
