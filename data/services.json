@@ -1,0 +1,662 @@
+[
+  {
+    "Service": "Adapt a vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Adopt a child",
+    "Custodian": "Not known",
+    "Who delivers this service": "Courts-Tribunals-Service DfE Passport-Office local-government",
+    "Service area": "childcare-and-parenting"
+  },
+  {
+    "Service": "Become a childminder",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government Home-Office HMRC Ofsted",
+    "Service area": "childcare-and-parenting"
+  },
+  {
+    "Service": "Become a scrap dealer",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Bring freight in to and out of the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "Home-Office",
+    "Service area": "import-and-export"
+  },
+  {
+    "Service": "Build a car",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Buy a business with vehicles",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA HMRC",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Buy a house",
+    "Custodian": "Not known",
+    "Who delivers this service": "estate-agent-industry Land-Registry local-government HMRC",
+    "Service area": "house-local-and-community"
+  },
+  {
+    "Service": "Buy a personalised registration",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Buy a vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA insurance-industry local-government",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Care for someone",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP DoH local-government Office-Public-Guardian",
+    "Service area": "births-deaths-marriages-and-care"
+  },
+  {
+    "Service": "Change gender",
+    "Custodian": "Not known",
+    "Who delivers this service": "Courts-Tribunals-Service DVLA Passport-Office",
+    "Service area": "births-deaths-marriages-and-care"
+  },
+  {
+    "Service": "Check penalty points",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Claim asylum in the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "Home-Office local-government",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "Close a charity",
+    "Custodian": "Not known",
+    "Who delivers this service": "Charity-Commission HMRC",
+    "Service area": "citizenship"
+  },
+  {
+    "Service": "Come to the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "Home-Office local-government",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "Declare bankruptcy",
+    "Custodian": "Not known",
+    "Who delivers this service": "Courts-Tribunals-Service Insolvency-Service",
+    "Service area": "crime-justice-and-the-law"
+  },
+  {
+    "Service": "Dismiss an employee",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP HMRC",
+    "Service area": "business"
+  },
+  {
+    "Service": "Dredge a river",
+    "Custodian": "Not known",
+    "Who delivers this service": "Environment-Agency",
+    "Service area": "environment-and-countryside"
+  },
+  {
+    "Service": "Drive a bus / mini-bus",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Drive a heavy vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA DoH",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Drive a moped or motobike",
+    "Custodian": "Not known",
+    "Who delivers this service": "approved-training-body DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Drive a taxi",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA insurance-industry local-government",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Drive abroad",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Drive in the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Drive tractor or specialist vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Drive with a medical condition",
+    "Custodian": "Lee Croucher",
+    "Who delivers this service": "DoH DVLA DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Employ a driver",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Employ someone",
+    "Custodian": "Not known",
+    "Who delivers this service": "Disclosure-and-Barring-Service DVLA Home-Office HMRC",
+    "Service area": "business"
+  },
+  {
+    "Service": "Export a vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA HMRC",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Find a school",
+    "Custodian": "Not known",
+    "Who delivers this service": "DfF local-government",
+    "Service area": "education"
+  },
+  {
+    "Service": "Find childcare",
+    "Custodian": "Not known",
+    "Who delivers this service": "DfE Ofsted local-government",
+    "Service area": "childcare-and-parenting"
+  },
+  {
+    "Service": "Foster a child",
+    "Custodian": "Not known",
+    "Who delivers this service": "DfE DWP Home-office HMRC local-government",
+    "Service area": "childcare-and-parenting"
+  },
+  {
+    "Service": "Get a divorce",
+    "Custodian": "Not known",
+    "Who delivers this service": "Courts-Tribunals-Service MoJ",
+    "Service area": "births-deaths-marriages-and-care"
+  },
+  {
+    "Service": "Get an apprenticeship",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP HMRC National-Apprenticeship-Service",
+    "Service area": "work"
+  },
+  {
+    "Service": "Get disqualified from driving",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA Courts-Tribunals-Service",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Get housing",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP local-government",
+    "Service area": "housing"
+  },
+  {
+    "Service": "Get married",
+    "Custodian": "Not known",
+    "Who delivers this service": "HMRC local-government",
+    "Service area": "births-deaths-marriages-and-care"
+  },
+  {
+    "Service": "Get parking permit",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Get planning permission",
+    "Custodian": "Not known",
+    "Who delivers this service": "DCLG English-Heritage Environment-Agency local-government Natural-England",
+    "Service area": "housing"
+  },
+  {
+    "Service": "Get your pension",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP HMRC",
+    "Service area": "money"
+  },
+  {
+    "Service": "Go fishing",
+    "Custodian": "Jeremy Gallop",
+    "Who delivers this service": "Environment-Agency Marine-Management-Organisation",
+    "Service area": "environment-and-countryside"
+  },
+  {
+    "Service": "Go to prison",
+    "Custodian": "Not known",
+    "Who delivers this service": "Courts-Tribunals-Service Home-Office Police Prison-Service",
+    "Service area": "crime-justice-and-the-law"
+  },
+  {
+    "Service": "Go to university",
+    "Custodian": "Not known",
+    "Who delivers this service": "DfE Ucas Student-Loans-Company universities",
+    "Service area": "education"
+  },
+  {
+    "Service": "Have a baby",
+    "Custodian": "Not known",
+    "Who delivers this service": "DoH DWP local-government HMRC",
+    "Service area": "childcare-and-parenting"
+  },
+  {
+    "Service": "Help paying for childcare",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government HMRC",
+    "Service area": "childcare-and-parenting"
+  },
+  {
+    "Service": "Help with court fees",
+    "Custodian": "Adrian Woodcock",
+    "Who delivers this service": "MoJ Courts-Tribunals-Service",
+    "Service area": "crime-justice-and-the-law"
+  },
+  {
+    "Service": "Import a vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA HMRC",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Inherit property",
+    "Custodian": "Not known",
+    "Who delivers this service": "Courts-Tribunals-Service HMRC local-government",
+    "Service area": "births-deaths-marriages-and-care"
+  },
+  {
+    "Service": "Invest in a company",
+    "Custodian": "Not known",
+    "Who delivers this service": "BEIS Companies-House HMRC",
+    "Service area": "business"
+  },
+  {
+    "Service": "Learn to drive",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Leave the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "FCO Home-Office",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "Let a property",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government",
+    "Service area": "housing"
+  },
+  {
+    "Service": "Live independently",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP DoH local-government",
+    "Service area": "work"
+  },
+  {
+    "Service": "Manufacture vehicles",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA HMRC Vehicle-Cerification-Agency",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Move abroad",
+    "Custodian": "Not known",
+    "Who delivers this service": "FCO HMRC Home-Office",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "Move house",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA HMRC local-government",
+    "Service area": "housing"
+  },
+  {
+    "Service": "Move livestock",
+    "Custodian": "Not known",
+    "Who delivers this service": "DEFRA",
+    "Service area": "environment-and-countryside"
+  },
+  {
+    "Service": "Move school",
+    "Custodian": "Not known",
+    "Who delivers this service": "DfE local-government",
+    "Service area": "education"
+  },
+  {
+    "Service": "Move waste",
+    "Custodian": "Not known",
+    "Who delivers this service": "Environment-Agency local government",
+    "Service area": "environment-and-countryside"
+  },
+  {
+    "Service": "Move wildlife",
+    "Custodian": "Not known",
+    "Who delivers this service": "Natural-England",
+    "Service area": "environment-and-countryside"
+  },
+  {
+    "Service": "Operate large vehicles",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA HMRC",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Own a boat",
+    "Custodian": "Not known",
+    "Who delivers this service": "Canal-River-Trust Environment-Agency Maritime-and-Coastguard-Agency",
+    "Service area": "transport"
+  },
+  {
+    "Service": "Own a firearm",
+    "Custodian": "Not known",
+    "Who delivers this service": "Home-Office Police",
+    "Service area": "crime-justice-and-the-law"
+  },
+  {
+    "Service": "Pay a fine",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA local-government",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Pay to use a UK road",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Pay vehicle tax",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Plan for retire",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP HMRC",
+    "Service area": "money"
+  },
+  {
+    "Service": "Protest for or against something",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government parliament",
+    "Service area": "citizenship"
+  },
+  {
+    "Service": "Prove idenity",
+    "Custodian": "Janet Hughes",
+    "Who delivers this service": "DVLA GDS Passport-Office",
+    "Service area": "citizenship"
+  },
+  {
+    "Service": "Register to vote",
+    "Custodian": "Francesca Garbarini",
+    "Who delivers this service": "Cabinet-Office DCLG",
+    "Service area": "citizenship"
+  },
+  {
+    "Service": "Renew driving licence",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Renew vehicle insurance",
+    "Custodian": "Not known",
+    "Who delivers this service": "insurance-industry",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Rent a house or flat",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government",
+    "Service area": "housing"
+  },
+  {
+    "Service": "Rent a vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA vehicle-rental-industry",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Report a crime",
+    "Custodian": "Not known",
+    "Who delivers this service": "Home-Office Police",
+    "Service area": "crime-justice-and-the-law"
+  },
+  {
+    "Service": "Run a farm",
+    "Custodian": "Not known",
+    "Who delivers this service": "DEFRA DVLA",
+    "Service area": "environment-and-countryside"
+  },
+  {
+    "Service": "Scrap a vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA scrap-metal-industry",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Sell a house",
+    "Custodian": "Not known",
+    "Who delivers this service": "Land-Registry local-government HMRC estate-agent-industry",
+    "Service area": "house-local-and-community"
+  },
+  {
+    "Service": "Sell a personalised registration",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Sell a vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA mechanic-industry",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Shut down a company",
+    "Custodian": "Not known",
+    "Who delivers this service": "Companies-House HMRC",
+    "Service area": "business"
+  },
+  {
+    "Service": "Start a business",
+    "Custodian": "Not known",
+    "Who delivers this service": "BEIS Companies-House HMRC Insolvency-Service",
+    "Service area": "business"
+  },
+  {
+    "Service": "Start a charity",
+    "Custodian": "Not known",
+    "Who delivers this service": "Charity-Commission HMRC",
+    "Service area": "citizenship"
+  },
+  {
+    "Service": "Start a farm",
+    "Custodian": "Not known",
+    "Who delivers this service": "DEFRA DVLA",
+    "Service area": "environment-and-countryside"
+  },
+  {
+    "Service": "Start a job",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP HMRC",
+    "Service area": "work"
+  },
+  {
+    "Service": "Start school",
+    "Custodian": "Not known",
+    "Who delivers this service": "DfE local-government",
+    "Service area": "education"
+  },
+  {
+    "Service": "Stay in contact with someone in prison",
+    "Custodian": "Not known",
+    "Who delivers this service": "Prison-Service",
+    "Service area": "crime-justice-and-the-law"
+  },
+  {
+    "Service": "Stay in the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "Home-Office",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "Stay in work",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP DoH HMRC",
+    "Service area": "work"
+  },
+  {
+    "Service": "Stop business with vehicles",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA HMRC",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Stop driving",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DoH",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Stop working",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP DoH HMRC",
+    "Service area": "work"
+  },
+  {
+    "Service": "Study in the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "Border-Force DfE FCO Passport-Office",
+    "Service area": "education"
+  },
+  {
+    "Service": "Take a pet abroad",
+    "Custodian": "Not known",
+    "Who delivers this service": "Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "Take on an apprentice",
+    "Custodian": "Not known",
+    "Who delivers this service": "DWP HMRC National-Apprenticeship-Service National-Career-Service",
+    "Service area": "business"
+  },
+  {
+    "Service": "Teach people to drive",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVSA driving-instructors-industry",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Test vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Test your vehicle",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Tow caravan or trailer",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Trade vehicles",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA HMRC",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Transfer a personalised registration",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Transport goods",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA HMRC",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Transport Passengers",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA DVSA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Travel to other countries",
+    "Custodian": "Not known",
+    "Who delivers this service": "Border-Force FCO Passport-Office",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "Update driving licence",
+    "Custodian": "Not known",
+    "Who delivers this service": "DVLA",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Use accessible parking",
+    "Custodian": "Not known",
+    "Who delivers this service": "local-government",
+    "Service area": "driving"
+  },
+  {
+    "Service": "Visit the UK",
+    "Custodian": "Not known",
+    "Who delivers this service": "Border-Force DCMS FCO Passport-Office",
+    "Service area": "visas-and-immigration"
+  },
+  {
+    "Service": "What to do when someone has died",
+    "Custodian": "Not known",
+    "Who delivers this service": "DoH funeralcare-industry local-government",
+    "Service area": "births-deaths-marriages-and-care"
+  },
+  {
+    "Service": "Work abroad",
+    "Custodian": "Not known",
+    "Who delivers this service": "FCO HMRC Home-Office",
+    "Service area": "visas-and-immigration"
+  }
+]
