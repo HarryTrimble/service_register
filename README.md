@@ -1,6 +1,6 @@
 # Service register
 
-A list of government services, as a user would recognise them. 
+A list of government services as a user would recognise them. 
 
 Good services are verbs. Bad services are nouns. 
 
