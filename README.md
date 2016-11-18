@@ -19,5 +19,5 @@ Information to include in your contribution:
 
 - [service name](https://check-before-you-start.herokuapp.com/start-page). For example 'Adopt a child'
 - custodian; the person responsible for the service, if any
-- which parts of governments and industries deliver that service. For example DWP HMRC accountancy-industry
+- which parts of governments and industries deliver that service. For example 'DVLA DVSA'
 - policy area the service belongs to. For example 'Housing'
