@@ -18,6 +18,6 @@ If you like to add a service to the list either:
 Information to include in your contribution:
 
 - [service name](https://check-before-you-start.herokuapp.com/start-page). For example 'Adopt a child'
-- Custodian; the person responsible for the service, if any
+- custodian; the person responsible for the service, if any
 - which parts of governments and industries deliver that service. For example DWP HMRC accountancy-industry
-- Policy area the service belongs to. For example 'Housing'
+- policy area the service belongs to. For example 'Housing'
