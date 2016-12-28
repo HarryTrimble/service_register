@@ -1,6 +1,7 @@
 Service,Custodian,Who delivers this service,Policy area
 Adapt a vehicle,Not known,DVLA DVSA,driving
 Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-government,childcare-and-parenting
+Become a British citizen,Not known,Home-Office,visas-and-immigration
 Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcare-and-parenting
 Become a scrap dealer,Not known,local-government,driving
 Bring freight in to and out of the UK,Not known,Home-Office,import-and-export
@@ -33,11 +34,11 @@ Find a school,Not known,DfF local-government,education
 Find childcare,Not known,DfE Ofsted local-government,childcare-and-parenting
 Foster a child,Not known,DfE DWP Home-office HMRC local-government,childcare-and-parenting
 Get a divorce,Not known,Courts-Tribunals-Service MoJ,births-deaths-marriages-and-care
+Get a parking permit,Not known,local-government,driving
 Get an apprenticeship ,Not known,DWP HMRC National-Apprenticeship-Service ,work
 Get disqualified from driving,Not known,DVLA DVSA Courts-Tribunals-Service,driving
 Get housing,Not known,DWP local-government,housing
 Get married,Not known,HMRC local-government ,births-deaths-marriages-and-care
-Get a parking permit,Not known,local-government,driving
 Get planning permission,Not known,DCLG English-Heritage Environment-Agency local-government Natural-England,housing
 Get your pension,Not known,DWP HMRC,money
 Go fishing,Jeremy Gallop,Environment-Agency Marine-Management-Organisation,environment-and-countryside
@@ -53,12 +54,13 @@ Learn to drive,Not known,DVLA DVSA ,driving
 Leave the UK,Not known,FCO Home-Office,visas-and-immigration
 Let a property,Not known,local-government ,housing
 Live independently,Not known,DWP DoH local-government,work
+Make a will,Not known,HMRC MoJ legal-industry,births-deaths-marriages-and-care
 Manufacture vehicles,Not known,DVLA HMRC Vehicle-Cerification-Agency,driving
 Move abroad,Not known,FCO HMRC Home-Office,visas-and-immigration
 Move house,Not known,DVLA HMRC local-government ,housing 
 Move livestock ,Not known,DEFRA,environment-and-countryside
 Move school,Not known,DfE local-government,education
-Move waste,Not known,Environment-Agency local government,environment-and-countryside
+Move waste,Not known,Environment-Agency local-government,environment-and-countryside
 Move wildlife,Not known,Natural-England,environment-and-countryside
 Operate large vehicles,Not known,DVLA DVSA HMRC,driving
 Own a boat,Not known,Canal-River-Trust Environment-Agency Maritime-and-Coastguard-Agency,transport
@@ -67,6 +69,8 @@ Pay a fine,Not known,DVLA local-government,driving
 Pay to use a UK road,Not known,DVLA,driving
 Pay vehicle tax,Not known,DVLA,driving
 Plan for retire,Not known,DWP HMRC,money
+Prepare for flooding,Not known,Environment-Agency insurance-industry local-government,environment-and-countryside
+Protect intellectual property,Not known,Intellectual-Property-Office,business
 Protest for or against something,Not known,local-government parliament,citizenship
 Prove idenity,Janet Hughes,DVLA GDS Passport-Office,citizenship
 Register to vote,Francesca Garbarini,Cabinet-Office DCLG,citizenship
@@ -107,5 +111,6 @@ Travel to other countries,Not known,Border-Force FCO Passport-Office ,visas-and-
 Update driving licence,Not known,DVLA,driving
 Use accessible parking,Not known,local-government,driving
 Visit the UK,Not known,Border-Force DCMS FCO Passport-Office,visas-and-immigration
-What to do when someone has died,Not known,DoH funeralcare-industry local-government,births-deaths-marriages-and-care
+Volunteer,Not known,Cabinet-Office charity-sector DWP,citizenship
+What to do when someone has died,Not known,DoH HMRC funeralcare-industry local-government ,births-deaths-marriages-and-care
 Work abroad,Not known,FCO HMRC Home-Office,visas-and-immigration
