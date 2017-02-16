@@ -7,9 +7,11 @@ Become a scrap dealer,Not known,local-government,driving
 Bring freight in to and out of the UK,Not known,Home-Office,import-and-export
 Build a car,Not known,DVLA DVSA,driving
 Buy a business with vehicles,Not known,DVLA DVSA HMRC,driving
-Buy a house,Not known,estate-agent-industry Land-Registry local-government HMRC,house-local-and-community
+Buy a house,Not known,estate-agent-industry Land-Registry local-government HMRC,housing
 Buy a personalised registration,Not known,DVLA,driving
 Buy a vehicle ,Not known,DVLA insurance-industry local-government,driving
+Buy land,Not known,HMRC Land-Registry,housing
+Buy shares,Not known,Companies-House HMRC,business
 Care for someone,Not known,DWP DoH local-government Office-Public-Guardian,births-deaths-marriages-and-care
 Change gender,Not known,Courts-Tribunals-Service DVLA Passport-Office,births-deaths-marriages-and-care
 Check penalty points,Not known,DVLA,driving
@@ -18,6 +20,7 @@ Close a charity,Not known,Charity-Commission HMRC,citizenship
 Come to the UK ,Not known,Home-Office local-government,visas-and-immigration
 Declare bankruptcy,Not known,Courts-Tribunals-Service Insolvency-Service,crime-justice-and-the-law
 Dismiss an employee,Not known,DWP HMRC,business
+Donate blood,Not known,DoH,health
 Dredge a river,Not known,Environment-Agency ,environment-and-countryside
 Drive a bus / mini-bus,Not known,DVLA DVSA,driving
 Drive a heavy vehicle,Not known,DVLA DVSA DoH,driving
@@ -37,6 +40,7 @@ Get a divorce,Not known,Courts-Tribunals-Service MoJ,births-deaths-marriages-and
 Get a parking permit,Not known,local-government,driving
 Get an apprenticeship ,Not known,DWP HMRC National-Apprenticeship-Service ,work
 Get disqualified from driving,Not known,DVLA DVSA Courts-Tribunals-Service,driving
+Get funding for research,Not known,BEIS DfE,education
 Get housing,Not known,DWP local-government,housing
 Get married,Not known,HMRC local-government ,births-deaths-marriages-and-care
 Get planning permission,Not known,DCLG English-Heritage Environment-Agency local-government Natural-England,housing
@@ -73,6 +77,7 @@ Prepare for flooding,Not known,Environment-Agency insurance-industry local-gover
 Protect intellectual property,Not known,Intellectual-Property-Office,business
 Protest for or against something,Not known,local-government parliament,citizenship
 Prove idenity,Janet Hughes,DVLA GDS Passport-Office,citizenship
+Register for organ donation,Not known,DoH,health
 Register to vote,Francesca Garbarini,Cabinet-Office DCLG,citizenship
 Renew driving licence,Not known,DVLA,driving
 Renew vehicle insurance,Not known,insurance-industry,driving
@@ -81,9 +86,11 @@ Rent a vehicle,Not known,DVLA vehicle-rental-industry,driving
 Report a crime,Not known,Home-Office Police,crime-justice-and-the-law
 Run a farm,Not known,DEFRA DVLA,environment-and-countryside
 Scrap a vehicle,Not known,DVLA scrap-metal-industry,driving
-Sell a house,Not known,Land-Registry local-government HMRC estate-agent-industry,house-local-and-community
+Sell a house,Not known,Land-Registry local-government HMRC estate-agent-industry,housing
 Sell a personalised registration,Not known,DVLA,driving
 Sell a vehicle,Not known,DVLA mechanic-industry,driving
+Sell land,Not known,HMRC Land-Registry,housing
+Sell shares,Not known,Companies-House HMRC,business
 Shut down a company,Not known,Companies-House HMRC ,business
 Start a business,Not known,BEIS Companies-House HMRC Insolvency-Service,business
 Start a charity,Not known,Charity-Commission HMRC,citizenship
