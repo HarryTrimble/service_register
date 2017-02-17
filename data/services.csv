@@ -6,6 +6,7 @@ Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcar
 Become a scrap dealer,Not known,local-government,driving
 Bring freight in to and out of the UK,Not known,Home-Office,import-and-export
 Build a car,Not known,DVLA DVSA,driving
+Build at sea,Not known,Environment-Agency Marine-Management-Organisation,environment-and-countryside
 Buy a business with vehicles,Not known,DVLA DVSA HMRC,driving
 Buy a house,Not known,estate-agent-industry Land-Registry local-government HMRC,housing
 Buy a personalised registration,Not known,DVLA,driving
@@ -48,6 +49,7 @@ Get your pension,Not known,DWP HMRC,money
 Go fishing,Jeremy Gallop,Environment-Agency Marine-Management-Organisation,environment-and-countryside
 Go to prison,Not known,Courts-Tribunals-Service Home-Office Police Prison-Service,crime-justice-and-the-law
 Go to university,Not known,DfE Ucas Student-Loans-Company universities,education
+Grow crops,Not known,Animal-and-Plant-Health-Agency,environment-and-countryside
 Have a baby,Not known,DoH DWP local-government HMRC,childcare-and-parenting
 Help paying for childcare,Not known,local-government HMRC ,childcare-and-parenting
 Help with court fees,Adrian Woodcock,MoJ Courts-Tribunals-Service,crime-justice-and-the-law
@@ -72,7 +74,7 @@ Own a firearm,Not known,Home-Office Police,crime-justice-and-the-law
 Pay a fine,Not known,DVLA local-government,driving
 Pay to use a UK road,Not known,DVLA,driving
 Pay vehicle tax,Not known,DVLA,driving
-Plan for retire,Not known,DWP HMRC,money
+Plan for retirement,Not known,DWP HMRC,money
 Prepare for flooding,Not known,Environment-Agency insurance-industry local-government,environment-and-countryside
 Protect intellectual property,Not known,Intellectual-Property-Office,business
 Protest for or against something,Not known,local-government parliament,citizenship
@@ -89,11 +91,14 @@ Scrap a vehicle,Not known,DVLA scrap-metal-industry,driving
 Sell a house,Not known,Land-Registry local-government HMRC estate-agent-industry,housing
 Sell a personalised registration,Not known,DVLA,driving
 Sell a vehicle,Not known,DVLA mechanic-industry,driving
+Sell fish,Not known,Centre-for-Environment-Fisheries-and-Aquaculture-Science Marine-Management-Organisation Sea-Fish-Industry-Authority ,environment-and-countryside
+Sell food,Not known,Food-Standards-Agency local-government,business health
 Sell land,Not known,HMRC Land-Registry,housing
 Sell shares,Not known,Companies-House HMRC,business
 Shut down a company,Not known,Companies-House HMRC ,business
 Start a business,Not known,BEIS Companies-House HMRC Insolvency-Service,business
 Start a charity,Not known,Charity-Commission HMRC,citizenship
+Start a factory,Not known,Environment-Agency HMRC,environment-and-countryside
 Start a farm ,Not known,DEFRA DVLA,environment-and-countryside
 Start a job,Not known,DWP HMRC,work
 Start school,Not known,DfE local-government,education
