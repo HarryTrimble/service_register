@@ -1,4 +1,4 @@
-Service,Custodian,Who delivers this service,Policy area
+Service,Custodian,Delivered by,Policy area
 Adapt a vehicle,Not known,DVLA DVSA,driving
 Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-government,childcare-and-parenting
 Become a British citizen,Not known,Home-Office,visas-and-immigration
@@ -72,7 +72,7 @@ Own a firearm,Not known,Home-Office Police,crime-justice-and-the-law
 Pay a fine,Not known,DVLA local-government,driving
 Pay to use a UK road,Not known,DVLA,driving
 Pay vehicle tax,Not known,DVLA,driving
-Plan for retire,Not known,DWP HMRC,money
+Plan for retirement,Not known,DWP HMRC,money
 Prepare for flooding,Not known,Environment-Agency insurance-industry local-government,environment-and-countryside
 Protect intellectual property,Not known,Intellectual-Property-Office,business
 Protest for or against something,Not known,local-government parliament,citizenship
