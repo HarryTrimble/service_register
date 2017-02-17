@@ -1,6 +1,6 @@
 # Service register
 
-A list of government services as users recognise them. 
+A list of government services as users see them. 
 
 This is not (yet) an canonical, authoritive list. 
 
