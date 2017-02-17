@@ -42,6 +42,12 @@
     "Policy area": "driving"
   },
   {
+    "Service": "Build at sea",
+    "Custodian": "Not known",
+    "Delivered by": "Environment-Agency Marine-Management-Organisation",
+    "Policy area": "environment-and-countryside"
+  },
+  {
     "Service": "Buy a business with vehicles",
     "Custodian": "Not known",
     "Delivered by": "DVLA DVSA HMRC",
@@ -294,6 +300,12 @@
     "Policy area": "education"
   },
   {
+    "Service": "Grow crops",
+    "Custodian": "Not known",
+    "Delivered by": "Animal-and-Plant-Health-Agency",
+    "Policy area": "environment-and-countryside"
+  },
+  {
     "Service": "Have a baby",
     "Custodian": "Not known",
     "Delivered by": "DoH DWP local-government HMRC",
@@ -540,6 +552,18 @@
     "Policy area": "driving"
   },
   {
+    "Service": "Sell fish",
+    "Custodian": "Not known",
+    "Delivered by": "Centre-for-Environment-Fisheries-and-Aquaculture-Science Marine-Management-Organisation Sea-Fish-Industry-Authority",
+    "Policy area": "environment-and-countryside"
+  },
+  {
+    "Service": "Sell food",
+    "Custodian": "Not known",
+    "Delivered by": "Food-Standards-Agency local-government",
+    "Policy area": "business health"
+  },
+  {
     "Service": "Sell land",
     "Custodian": "Not known",
     "Delivered by": "HMRC Land-Registry",
@@ -568,6 +592,12 @@
     "Custodian": "Not known",
     "Delivered by": "Charity-Commission HMRC",
     "Policy area": "citizenship"
+  },
+  {
+    "Service": "Start a factory",
+    "Custodian": "Not known",
+    "Delivered by": "Environment-Agency HMRC",
+    "Policy area": "environment-and-countryside"
   },
   {
     "Service": "Start a farm",
