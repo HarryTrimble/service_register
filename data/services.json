@@ -450,7 +450,7 @@
     "Policy area": "business"
   },
   {
-    "Service": "Open sex shop",
+    "Service": "Open a sex shop",
     "Custodian": "Not known",
     "Delivered by": "Home-Office local-government police",
     "Policy area": "business"
@@ -594,13 +594,7 @@
     "Policy area": "visas-and-immigration"
   },
   {
-    "Service": "Run a gambling shop",
-    "Custodian": "Not known",
-    "Delivered by": "gambling-commission local-government",
-    "Policy area": "business"
-  },
-  {
-    "Service": "Run sex shop",
+    "Service": "Run a sex shop",
     "Custodian": "Not known",
     "Delivered by": "Home-Office local-government police",
     "Policy area": "business"
@@ -694,6 +688,12 @@
     "Custodian": "Not known",
     "Delivered by": "DEFRA DVLA",
     "Policy area": "environment-and-countryside"
+  },
+  {
+    "Service": "Start a gambling shop",
+    "Custodian": "Not known",
+    "Delivered by": "gambling-commission local-government",
+    "Policy area": "business"
   },
   {
     "Service": "Start a job",

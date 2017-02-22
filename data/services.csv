@@ -74,7 +74,7 @@ Move waste,Not known,Environment-Agency local-government,environment-and-country
 Move wildlife,Not known,Natural-England,environment-and-countryside
 Open a cinema,Not known,local-government,business
 Open a gambling shop,Not known,gambling-commission local-government,business
-Open sex shop,Not known,Home-Office local-government police,business
+Open a sex shop,Not known,Home-Office local-government police,business
 Operate large vehicles,Not known,DVLA DVSA HMRC,driving
 Own a boat,Not known,Canal-River-Trust Environment-Agency Maritime-and-Coastguard-Agency,transport
 Own a firearm,Not known,Home-Office police,crime-justice-and-the-law
@@ -98,8 +98,7 @@ Rubbish collection,Not known,local-government,environment-and-countryside
 Run a cinema,Not known,BBFC local-government,business
 Run a farm,Not known,DEFRA DVLA,environment-and-countryside
 Run a gambling shop,Not known,Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry,visas-and-immigration
-Run a gambling shop,Not known,gambling-commission local-government,business
-Run sex shop,Not known,Home-Office local-government police,business
+Run a sex shop,Not known,Home-Office local-government police,business
 Scrap a vehicle,Not known,DVLA scrap-metal-industry,driving
 Sell a house,Not known,Land-Registry local-government HMRC estate-agent-industry,housing
 Sell a personalised registration,Not known,DVLA,driving
@@ -115,6 +114,7 @@ Start a business,Not known,BEIS Companies-House HMRC Insolvency-Service,business
 Start a charity,Not known,Charity-Commission HMRC,citizenship
 Start a factory,Not known,Environment-Agency HMRC,environment-and-countryside
 Start a farm ,Not known,DEFRA DVLA,environment-and-countryside
+Start a gambling shop,Not known,gambling-commission local-government,business
 Start a job,Not known,DWP HMRC,work
 Start school,Not known,DfE local-government,education
 Stay in contact with someone in prison,Not known,Prison-Service,crime-justice-and-the-law
