@@ -1,12 +1,12 @@
 # Service register
 
-A list of government services as users see them. 
+[List](https://github.com/HarryTrimble/service_register/blob/master/data/services.csv) of government services as users see them. 
 
 This is not (yet) an canonical, authoritive list. 
 
 This is not (yet) an exhaustive list. 
 
-Thinking through making
+[List available as API](http://www.harrytrimble.co.uk/service_register/data/services.json)
 
 ## Contribute
 
