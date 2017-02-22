@@ -4,6 +4,8 @@ Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-gover
 Become a British citizen,Not known,Home-Office,visas-and-immigration
 Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcare-and-parenting
 Become a scrap dealer,Not known,local-government,driving
+Breed dogs,Not known,local-government RSPCA Veterinary-Medicines-Directorate,business
+Bring a pet to the UK,Not known,Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry,visas-and-immigration
 Bring freight in to and out of the UK,Not known,Home-Office,import-and-export
 Build a car,Not known,DVLA DVSA,driving
 Build at sea,Not known,Environment-Agency Marine-Management-Organisation,environment-and-countryside
@@ -39,6 +41,7 @@ Find childcare,Not known,DfE Ofsted local-government,childcare-and-parenting
 Foster a child,Not known,DfE DWP Home-office HMRC local-government,childcare-and-parenting
 Get a divorce,Not known,Courts-Tribunals-Service MoJ,births-deaths-marriages-and-care
 Get a parking permit,Not known,local-government,driving
+Get a skip,Not known,local-government,environment-and-countryside
 Get an apprenticeship ,Not known,DWP HMRC National-Apprenticeship-Service ,work
 Get disqualified from driving,Not known,DVLA DVSA Courts-Tribunals-Service,driving
 Get funding for research,Not known,BEIS DfE,education
@@ -61,6 +64,7 @@ Leave the UK,Not known,FCO Home-Office,visas-and-immigration
 Let a property,Not known,local-government ,housing
 Live independently,Not known,DWP DoH local-government,work
 Make a will,Not known,HMRC MoJ legal-industry,births-deaths-marriages-and-care
+Manufacture food,Not known,Food-Standards-Agency local-government,health
 Manufacture vehicles,Not known,DVLA HMRC Vehicle-Cerification-Agency,driving
 Move abroad,Not known,FCO HMRC Home-Office,visas-and-immigration
 Move house,Not known,DVLA HMRC local-government ,housing 
@@ -68,9 +72,12 @@ Move livestock ,Not known,DEFRA,environment-and-countryside
 Move school,Not known,DfE local-government,education
 Move waste,Not known,Environment-Agency local-government,environment-and-countryside
 Move wildlife,Not known,Natural-England,environment-and-countryside
+Open a cinema,Not known,local-government,business
+Open a gambling shop,Not known,gambling-commission local-government,business
+Open sex shop,Not known,Home-Office local-government police,business
 Operate large vehicles,Not known,DVLA DVSA HMRC,driving
 Own a boat,Not known,Canal-River-Trust Environment-Agency Maritime-and-Coastguard-Agency,transport
-Own a firearm,Not known,Home-Office Police,crime-justice-and-the-law
+Own a firearm,Not known,Home-Office police,crime-justice-and-the-law
 Pay a fine,Not known,DVLA local-government,driving
 Pay to use a UK road,Not known,DVLA,driving
 Pay vehicle tax,Not known,DVLA,driving
@@ -78,22 +85,30 @@ Plan for retirement,Not known,DWP HMRC,money
 Prepare for flooding,Not known,Environment-Agency insurance-industry local-government,environment-and-countryside
 Protect intellectual property,Not known,Intellectual-Property-Office,business
 Protest for or against something,Not known,local-government parliament,citizenship
-Prove idenity,Janet Hughes,DVLA GDS Passport-Office,citizenship
+Prove idenity,Jess McEvoy,DVLA GDS Passport-Office,citizenship
+Put up scaffolding ,Not known,Environment-Agency local-government,housing
 Register for organ donation,Not known,DoH,health
 Register to vote,Francesca Garbarini,Cabinet-Office DCLG,citizenship
 Renew driving licence,Not known,DVLA,driving
 Renew vehicle insurance,Not known,insurance-industry,driving
 Rent a house or flat,Not known,local-government ,housing
 Rent a vehicle,Not known,DVLA vehicle-rental-industry,driving
-Report a crime,Not known,Home-Office Police,crime-justice-and-the-law
+Report a crime,Not known,Home-Office police,crime-justice-and-the-law
+Rubbish collection,Not known,local-government,environment-and-countryside
+Run a cinema,Not known,BBFC local-government,business
 Run a farm,Not known,DEFRA DVLA,environment-and-countryside
+Run a gambling shop,Not known,Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry,visas-and-immigration
+Run a gambling shop,Not known,gambling-commission local-government,business
+Run sex shop,Not known,Home-Office local-government police,business
 Scrap a vehicle,Not known,DVLA scrap-metal-industry,driving
 Sell a house,Not known,Land-Registry local-government HMRC estate-agent-industry,housing
 Sell a personalised registration,Not known,DVLA,driving
 Sell a vehicle,Not known,DVLA mechanic-industry,driving
+Sell fireworks,Not known,Home-Office local-government,business
 Sell fish,Not known,Centre-for-Environment-Fisheries-and-Aquaculture-Science Marine-Management-Organisation Sea-Fish-Industry-Authority ,environment-and-countryside
-Sell food,Not known,Food-Standards-Agency local-government,business health
+Sell food,Not known,Food-Standards-Agency local-government,health
 Sell land,Not known,HMRC Land-Registry,housing
+Sell pets,Not known,local-government RSPCA Veterinary-Medicines-Directorate,business
 Sell shares,Not known,Companies-House HMRC,business
 Shut down a company,Not known,Companies-House HMRC ,business
 Start a business,Not known,BEIS Companies-House HMRC Insolvency-Service,business
@@ -109,7 +124,6 @@ Stop business with vehicles,Not known,DVLA DVSA HMRC,driving
 Stop driving,Not known,DVLA DoH,driving
 Stop working,Not known,DWP DoH HMRC,work
 Study in the UK ,Not known,Border-Force DfE FCO Passport-Office,education
-Take a pet abroad,Not known,Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry,visas-and-immigration
 Take on an apprentice,Not known,DWP HMRC National-Apprenticeship-Service National-Career-Service,business
 Teach people to drive,Not known,DVSA driving-instructors-industry,driving
 Test vehicle,Not known,DVSA,driving
@@ -118,9 +132,10 @@ Tow caravan or trailer,Not known,DVLA,driving
 Trade vehicles,Not known,DVLA HMRC,driving
 Transfer a personalised registration,Not known,DVLA,driving
 Transport goods,Not known,DVLA DVSA HMRC,driving
-Transport Passengers,Not known,DVLA DVSA,driving
+Transport passengers,Not known,DVLA DVSA,driving
 Travel to other countries,Not known,Border-Force FCO Passport-Office ,visas-and-immigration
 Update driving licence,Not known,DVLA,driving
+Use a crane,Not known,local-government,housing
 Use accessible parking,Not known,local-government,driving
 Visit the UK,Not known,Border-Force DCMS FCO Passport-Office,visas-and-immigration
 Volunteer,Not known,Cabinet-Office charity-sector DWP,citizenship
