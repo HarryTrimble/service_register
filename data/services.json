@@ -30,6 +30,18 @@
     "Policy area": "driving"
   },
   {
+    "Service": "Breed dogs",
+    "Custodian": "Not known",
+    "Delivered by": "local-government RSPCA Veterinary-Medicines-Directorate",
+    "Policy area": "business"
+  },
+  {
+    "Service": "Bring a pet to the UK",
+    "Custodian": "Not known",
+    "Delivered by": "Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry",
+    "Policy area": "visas-and-immigration"
+  },
+  {
     "Service": "Bring freight in to and out of the UK",
     "Custodian": "Not known",
     "Delivered by": "Home-Office",
@@ -240,6 +252,12 @@
     "Policy area": "driving"
   },
   {
+    "Service": "Get a skip",
+    "Custodian": "Not known",
+    "Delivered by": "local-government",
+    "Policy area": "environment-and-countryside"
+  },
+  {
     "Service": "Get an apprenticeship",
     "Custodian": "Not known",
     "Delivered by": "DWP HMRC National-Apprenticeship-Service",
@@ -372,6 +390,12 @@
     "Policy area": "births-deaths-marriages-and-care"
   },
   {
+    "Service": "Manufacture food",
+    "Custodian": "Not known",
+    "Delivered by": "Food-Standards-Agency local-government",
+    "Policy area": "health"
+  },
+  {
     "Service": "Manufacture vehicles",
     "Custodian": "Not known",
     "Delivered by": "DVLA HMRC Vehicle-Cerification-Agency",
@@ -414,6 +438,24 @@
     "Policy area": "environment-and-countryside"
   },
   {
+    "Service": "Open a cinema",
+    "Custodian": "Not known",
+    "Delivered by": "local-government",
+    "Policy area": "business"
+  },
+  {
+    "Service": "Open a gambling shop",
+    "Custodian": "Not known",
+    "Delivered by": "gambling-commission local-government",
+    "Policy area": "business"
+  },
+  {
+    "Service": "Open sex shop",
+    "Custodian": "Not known",
+    "Delivered by": "Home-Office local-government police",
+    "Policy area": "business"
+  },
+  {
     "Service": "Operate large vehicles",
     "Custodian": "Not known",
     "Delivered by": "DVLA DVSA HMRC",
@@ -428,7 +470,7 @@
   {
     "Service": "Own a firearm",
     "Custodian": "Not known",
-    "Delivered by": "Home-Office Police",
+    "Delivered by": "Home-Office police",
     "Policy area": "crime-justice-and-the-law"
   },
   {
@@ -475,9 +517,15 @@
   },
   {
     "Service": "Prove idenity",
-    "Custodian": "Janet Hughes",
+    "Custodian": "Jess McEvoy",
     "Delivered by": "DVLA GDS Passport-Office",
     "Policy area": "citizenship"
+  },
+  {
+    "Service": "Put up scaffolding",
+    "Custodian": "Not known",
+    "Delivered by": "Environment-Agency local-government",
+    "Policy area": "housing"
   },
   {
     "Service": "Register for organ donation",
@@ -518,14 +566,44 @@
   {
     "Service": "Report a crime",
     "Custodian": "Not known",
-    "Delivered by": "Home-Office Police",
+    "Delivered by": "Home-Office police",
     "Policy area": "crime-justice-and-the-law"
+  },
+  {
+    "Service": "Rubbish collection",
+    "Custodian": "Not known",
+    "Delivered by": "local-government",
+    "Policy area": "environment-and-countryside"
+  },
+  {
+    "Service": "Run a cinema",
+    "Custodian": "Not known",
+    "Delivered by": "BBFC local-government",
+    "Policy area": "business"
   },
   {
     "Service": "Run a farm",
     "Custodian": "Not known",
     "Delivered by": "DEFRA DVLA",
     "Policy area": "environment-and-countryside"
+  },
+  {
+    "Service": "Run a gambling shop",
+    "Custodian": "Not known",
+    "Delivered by": "Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry",
+    "Policy area": "visas-and-immigration"
+  },
+  {
+    "Service": "Run a gambling shop",
+    "Custodian": "Not known",
+    "Delivered by": "gambling-commission local-government",
+    "Policy area": "business"
+  },
+  {
+    "Service": "Run sex shop",
+    "Custodian": "Not known",
+    "Delivered by": "Home-Office local-government police",
+    "Policy area": "business"
   },
   {
     "Service": "Scrap a vehicle",
@@ -552,6 +630,12 @@
     "Policy area": "driving"
   },
   {
+    "Service": "Sell fireworks",
+    "Custodian": "Not known",
+    "Delivered by": "Home-Office local-government",
+    "Policy area": "business"
+  },
+  {
     "Service": "Sell fish",
     "Custodian": "Not known",
     "Delivered by": "Centre-for-Environment-Fisheries-and-Aquaculture-Science Marine-Management-Organisation Sea-Fish-Industry-Authority",
@@ -561,13 +645,19 @@
     "Service": "Sell food",
     "Custodian": "Not known",
     "Delivered by": "Food-Standards-Agency local-government",
-    "Policy area": "business health"
+    "Policy area": "health"
   },
   {
     "Service": "Sell land",
     "Custodian": "Not known",
     "Delivered by": "HMRC Land-Registry",
     "Policy area": "housing"
+  },
+  {
+    "Service": "Sell pets",
+    "Custodian": "Not known",
+    "Delivered by": "local-government RSPCA Veterinary-Medicines-Directorate",
+    "Policy area": "business"
   },
   {
     "Service": "Sell shares",
@@ -660,12 +750,6 @@
     "Policy area": "education"
   },
   {
-    "Service": "Take a pet abroad",
-    "Custodian": "Not known",
-    "Delivered by": "Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry",
-    "Policy area": "visas-and-immigration"
-  },
-  {
     "Service": "Take on an apprentice",
     "Custodian": "Not known",
     "Delivered by": "DWP HMRC National-Apprenticeship-Service National-Career-Service",
@@ -714,7 +798,7 @@
     "Policy area": "driving"
   },
   {
-    "Service": "Transport Passengers",
+    "Service": "Transport passengers",
     "Custodian": "Not known",
     "Delivered by": "DVLA DVSA",
     "Policy area": "driving"
@@ -730,6 +814,12 @@
     "Custodian": "Not known",
     "Delivered by": "DVLA",
     "Policy area": "driving"
+  },
+  {
+    "Service": "Use a crane",
+    "Custodian": "Not known",
+    "Delivered by": "local-government",
+    "Policy area": "housing"
   },
   {
     "Service": "Use accessible parking",
