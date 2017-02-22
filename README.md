@@ -1,6 +1,6 @@
 # Service register
 
-[List](https://github.com/HarryTrimble/service_register/blob/master/data/services.csv) of government services as users see them. 
+[List of government services](https://github.com/HarryTrimble/service_register/blob/master/data/services.csv) as users see them. 
 
 This is not (yet) an canonical, authoritive list. 
 
