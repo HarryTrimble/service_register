@@ -1,9 +1,10 @@
 Service,Custodian,Delivered by,Policy area
 Adapt a vehicle,Not known,DVLA DVSA,driving
 Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-government,childcare-and-parenting
+Apply for a passport,Not known,Passport-Office,visas-and-immigration
 Be re-setted in the UK,Not known,Home-Office local-government,visas-and-immigration
 Become a British citizen,Not known,Home-Office,visas-and-immigration
-Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcare-and-parenting
+Become a childminder,Not known,Home-Office HMRC local-government Ofsted,childcare-and-parenting
 Become a scrap dealer,Not known,local-government,driving
 Breed dogs,Not known,local-government RSPCA Veterinary-Medicines-Directorate,business
 Bring a pet to the UK,Not known,Animal-and-Plant-Health-Agency Border-Force HMRC vet-industry,visas-and-immigration
@@ -137,9 +138,8 @@ Transport passengers,Not known,DVLA DVSA,driving
 Travel to other countries,Not known,Border-Force FCO Passport-Office ,visas-and-immigration
 Update driving licence,Not known,DVLA,driving
 Use a crane,Not known,local-government,housing
-Use accessible parking,Not known,local-government,driving
+Use accessible parking,Not known,DfT local-government,driving
 Visit the UK,Not known,Border-Force DCMS FCO Passport-Office,visas-and-immigration
 Volunteer,Not known,Cabinet-Office charity-sector DWP,citizenship
 What to do when someone has died,Not known,DoH HMRC funeralcare-industry local-government ,births-deaths-marriages-and-care
 Work abroad,Not known,FCO HMRC Home-Office,visas-and-immigration
-Apply for a passport,Not known,Passport-Office,visas-and-immigration
