@@ -12,6 +12,18 @@
     "Policy area": "childcare-and-parenting"
   },
   {
+    "Service": "Apply for a passport",
+    "Custodian": "Not known",
+    "Delivered by": "Passport-Office",
+    "Policy area": "visas-and-immigration"
+  },
+  {
+    "Service": "Be re-setted in the UK",
+    "Custodian": "Not known",
+    "Delivered by": "Home-Office local-government",
+    "Policy area": "visas-and-immigration"
+  },
+  {
     "Service": "Become a British citizen",
     "Custodian": "Not known",
     "Delivered by": "Home-Office",
@@ -20,7 +32,7 @@
   {
     "Service": "Become a childminder",
     "Custodian": "Not known",
-    "Delivered by": "local-government Home-Office HMRC Ofsted",
+    "Delivered by": "Home-Office HMRC local-government Ofsted",
     "Policy area": "childcare-and-parenting"
   },
   {
@@ -114,22 +126,10 @@
     "Policy area": "driving"
   },
   {
-    "Service": "Claim asylum in the UK",
-    "Custodian": "Not known",
-    "Delivered by": "Home-Office local-government",
-    "Policy area": "visas-and-immigration"
-  },
-  {
     "Service": "Close a charity",
     "Custodian": "Not known",
     "Delivered by": "Charity-Commission HMRC",
     "Policy area": "citizenship"
-  },
-  {
-    "Service": "Come to the UK",
-    "Custodian": "Not known",
-    "Delivered by": "Home-Office local-government",
-    "Policy area": "visas-and-immigration"
   },
   {
     "Service": "Declare bankruptcy",
@@ -214,6 +214,12 @@
     "Custodian": "Not known",
     "Delivered by": "Disclosure-and-Barring-Service DVLA Home-Office HMRC",
     "Policy area": "business"
+  },
+  {
+    "Service": "Enter the UK",
+    "Custodian": "Not known",
+    "Delivered by": "Home-Office local-government",
+    "Policy area": "visas-and-immigration"
   },
   {
     "Service": "Export a vehicle",
@@ -364,6 +370,12 @@
     "Custodian": "Not known",
     "Delivered by": "DVLA DVSA",
     "Policy area": "driving"
+  },
+  {
+    "Service": "Leave prison",
+    "Custodian": "Not known",
+    "Delivered by": "MoJ",
+    "Policy area": "crime-justice-and-the-law"
   },
   {
     "Service": "Leave the UK",
@@ -552,16 +564,16 @@
     "Policy area": "driving"
   },
   {
-    "Service": "Rent a house or flat",
-    "Custodian": "Not known",
-    "Delivered by": "local-government",
-    "Policy area": "housing"
-  },
-  {
     "Service": "Rent a vehicle",
     "Custodian": "Not known",
     "Delivered by": "DVLA vehicle-rental-industry",
     "Policy area": "driving"
+  },
+  {
+    "Service": "Rent out a property",
+    "Custodian": "Not known",
+    "Delivered by": "Home-Office local-government",
+    "Policy area": "housing"
   },
   {
     "Service": "Report a crime",
@@ -824,7 +836,7 @@
   {
     "Service": "Use accessible parking",
     "Custodian": "Not known",
-    "Delivered by": "local-government",
+    "Delivered by": "DfT local-government",
     "Policy area": "driving"
   },
   {
