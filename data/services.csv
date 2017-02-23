@@ -1,6 +1,7 @@
 Service,Custodian,Delivered by,Policy area
 Adapt a vehicle,Not known,DVLA DVSA,driving
 Adopt a child,Not known,Courts-Tribunals-Service DfE Passport-Office local-government,childcare-and-parenting
+Be re-setted in the UK,Not known,Home-Office local-government,visas-and-immigration
 Become a British citizen,Not known,Home-Office,visas-and-immigration
 Become a childminder,Not known,local-government Home-Office HMRC Ofsted,childcare-and-parenting
 Become a scrap dealer,Not known,local-government,driving
@@ -18,9 +19,7 @@ Buy shares,Not known,Companies-House HMRC,business
 Care for someone,Not known,DWP DoH local-government Office-Public-Guardian,births-deaths-marriages-and-care
 Change gender,Not known,Courts-Tribunals-Service DVLA Passport-Office,births-deaths-marriages-and-care
 Check penalty points,Not known,DVLA,driving
-Claim asylum in the UK,Not known,Home-Office local-government,visas-and-immigration
 Close a charity,Not known,Charity-Commission HMRC,citizenship
-Come to the UK ,Not known,Home-Office local-government,visas-and-immigration
 Declare bankruptcy,Not known,Courts-Tribunals-Service Insolvency-Service,crime-justice-and-the-law
 Dismiss an employee,Not known,DWP HMRC,business
 Donate blood,Not known,DoH,health
@@ -35,6 +34,7 @@ Drive tractor or specialist vehicle,Not known,DVLA,driving
 Drive with a medical condition,Lee Croucher,DoH DVLA DVSA,driving
 Employ a driver,Not known,DVLA,driving
 Employ someone,Not known,Disclosure-and-Barring-Service DVLA Home-Office HMRC,business
+Enter the UK ,Not known,Home-Office local-government,visas-and-immigration
 Export a vehicle,Not known,DVLA HMRC,driving
 Find a school,Not known,DfF local-government,education
 Find childcare,Not known,DfE Ofsted local-government,childcare-and-parenting
@@ -92,8 +92,8 @@ Register for organ donation,Not known,DoH,health
 Register to vote,Francesca Garbarini,Cabinet-Office DCLG,citizenship
 Renew driving licence,Not known,DVLA,driving
 Renew vehicle insurance,Not known,insurance-industry,driving
-Rent a house or flat,Not known,local-government ,housing
 Rent a vehicle,Not known,DVLA vehicle-rental-industry,driving
+Rent out a property,Not known,Home-Office local-government ,housing
 Report a crime,Not known,Home-Office police,crime-justice-and-the-law
 Rubbish collection,Not known,local-government,environment-and-countryside
 Run a cinema,Not known,BBFC local-government,business
