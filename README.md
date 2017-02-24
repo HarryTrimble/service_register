@@ -2,7 +2,7 @@
 
 [List of government services](https://github.com/HarryTrimble/service_register/blob/master/data/services.csv) as users see them. 
 
-This is not [(yet) an canonical, authoritive list](https://registers.cloudapps.digital/registers/government-service). 
+This is not (yet) an canonical, authoritive list. 
 
 This is not (yet) an exhaustive list. 
 
