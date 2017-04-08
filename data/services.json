@@ -366,6 +366,18 @@
     "Policy area": "business"
   },
   {
+    "Service": "Join a library",
+    "Custodian": "Not known",
+    "Delivered by": "local-government",
+    "Policy area": "education"
+  },
+  {
+    "Service": "Jury service",
+    "Custodian": "Not known",
+    "Delivered by": "Courts-Tribunals-Service",
+    "Policy area": "crime-justice-and-the-law"
+  },
+  {
     "Service": "Learn to drive",
     "Custodian": "Not known",
     "Delivered by": "DVLA DVSA",
@@ -576,6 +588,12 @@
     "Policy area": "housing"
   },
   {
+    "Service": "Repay student loan",
+    "Custodian": "Not known",
+    "Delivered by": "DWP HMRC Student-Loans-Company",
+    "Policy area": "education"
+  },
+  {
     "Service": "Report a crime",
     "Custodian": "Not known",
     "Delivered by": "Home-Office police",
@@ -670,6 +688,12 @@
     "Custodian": "Not known",
     "Delivered by": "Companies-House HMRC",
     "Policy area": "business"
+  },
+  {
+    "Service": "Send money to a prisoner",
+    "Custodian": "Not known",
+    "Delivered by": "Prison-Service",
+    "Policy area": "crime-justice-and-the-law"
   },
   {
     "Service": "Shut down a company",

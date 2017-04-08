@@ -60,6 +60,8 @@ Help with court fees,Adrian Woodcock,MoJ Courts-Tribunals-Service,crime-justice-
 Import a vehicle,Not known,DVLA HMRC,driving
 Inherit property,Not known,Courts-Tribunals-Service HMRC local-government,births-deaths-marriages-and-care
 Invest in a company,Not known,BEIS Companies-House HMRC,business
+Join a library,Not known,local-government,education
+Jury service,Not known,Courts-Tribunals-Service,crime-justice-and-the-law
 Learn to drive,Not known,DVLA DVSA ,driving
 Leave prison,Not known,MoJ,crime-justice-and-the-law
 Leave the UK,Not known,FCO Home-Office,visas-and-immigration
@@ -95,6 +97,7 @@ Renew driving licence,Not known,DVLA,driving
 Renew vehicle insurance,Not known,insurance-industry,driving
 Rent a vehicle,Not known,DVLA vehicle-rental-industry,driving
 Rent out a property,Not known,Home-Office local-government ,housing
+Repay student loan,Not known,DWP HMRC Student-Loans-Company,education
 Report a crime,Not known,Home-Office police,crime-justice-and-the-law
 Rubbish collection,Not known,local-government,environment-and-countryside
 Run a cinema,Not known,BBFC local-government,business
@@ -111,6 +114,7 @@ Sell food,Not known,Food-Standards-Agency local-government,health
 Sell land,Not known,HMRC Land-Registry,housing
 Sell pets,Not known,local-government RSPCA Veterinary-Medicines-Directorate,business
 Sell shares,Not known,Companies-House HMRC,business
+Send money to a prisoner,Not known,Prison-Service,crime-justice-and-the-law
 Shut down a company,Not known,Companies-House HMRC ,business
 Start a business,Not known,BEIS Companies-House HMRC Insolvency-Service,business
 Start a charity,Not known,Charity-Commission HMRC,citizenship
